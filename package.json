@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.0.1"
+  },
+  "name": "mirrorbook-development-pharse",
+  "description": "This Project We're working on to make the social and friends connecting together in a verse. Just wait and see in the Action.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oishik Dutta",
+  "license": "ISC"
+}
